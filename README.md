@@ -1,7 +1,7 @@
 # Nice to meet you !
 
 - ⵗ Beginner front-end web developer.
-- ⵗ Currently learning Flutter and UX/UI design.
+- ⵗ Currently learning Flutter language.
 
 ## Tech Stack
 
