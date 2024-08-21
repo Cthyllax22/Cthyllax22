@@ -1,7 +1,7 @@
 # Nice to meet you !
 
 - ⵗ Beginner front-end web developer.
-- ⵗ Currently learning Flutter language.
+- ⵗ Currently learning Flutter framework and Dart language.
 
 ## Tech Stack
 
