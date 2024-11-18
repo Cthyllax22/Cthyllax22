@@ -1,7 +1,7 @@
 # Nice to meet you !
 
-- ⵗ Beginner front-end web developer.
-- ⵗ Currently learning Flutter framework and Dart language.
+🔸 Junior Web Developer & Mobile Developer
+🔸 Currently learning React Native
 
 ## Tech Stack
 
